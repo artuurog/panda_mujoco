@@ -1,5 +1,4 @@
-<!--<panda>-->
-<mujoco>
+<panda>
   <asset>
     <mesh name="link0" file="link0.obj" />
     <mesh name="link1" file="link1.obj" />
@@ -85,5 +84,4 @@
       </body>
     </body>
   </worldbody>
-</mujoco>
-<!--</panda>-->
+</panda>
