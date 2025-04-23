@@ -14,10 +14,12 @@
     <material name="plane" reflectance="0.3" texture="plane" texrepeat="1 1" texuniform="true" />
   </asset>
   
-  <include file="panda.xml" />
+  <!-- <include file="panda.xml" /> -->
   <!-- <include file="ventionTable.xml" /> -->
   
   <worldbody>
+    <include file="panda.xml" />
+    <!-- <include file="ventionTable.xml" /> -->
     <body>
       <geom type="box" size=".03 .03 .03" pos=".3 0 .03" condim="6" />
       <joint type="free" />
