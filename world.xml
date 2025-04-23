@@ -15,12 +15,12 @@
   </asset>
 
   <include file="ventionTable.xml"/>
-  <include file="panda.xml" />
+  <!--<include file="panda.xml" />-->
 
   
   <worldbody>
     <body name="panda_robot" pos="0 0 1">
-        <include file="ventionTable.xml"/>
+        <include file="panda.xml"/>
         
     </body>
     
