@@ -14,9 +14,7 @@
     <material name="plane" reflectance="0.3" texture="plane" texrepeat="1 1" texuniform="true" />
   </asset>
 
-  <body name="panda_robot" pos="0 0 1">
-    <include file="ventionTable.xml" />
-  </body>
+  <include file="ventionTable.xml" pos="0 0 1"/>
   <include file="panda.xml" />
 
   
