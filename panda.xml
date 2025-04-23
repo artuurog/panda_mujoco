@@ -1,15 +1,15 @@
 <panda>
   <asset>
-    <mesh name="link0" file="link0.obj" />
-    <mesh name="link1" file="link1.obj" />
-    <mesh name="link2" file="link2.obj" />
-    <mesh name="link3" file="link3.obj" />
-    <mesh name="link4" file="link4.obj" />
-    <mesh name="link5" file="link5.obj" />
-    <mesh name="link6" file="link6.obj" />
-    <mesh name="link7" file="link7.obj" />
-    <mesh name="hand" file="hand.obj" />
-    <mesh name="finger" file="finger.obj" />
+    <mesh name="link0" file="mesh/link0.obj" />
+    <mesh name="link1" file="mesh/link1.obj" />
+    <mesh name="link2" file="mesh/link2.obj" />
+    <mesh name="link3" file="mesh/link3.obj" />
+    <mesh name="link4" file="mesh/link4.obj" />
+    <mesh name="link5" file="mesh/link5.obj" />
+    <mesh name="link6" file="mesh/link6.obj" />
+    <mesh name="link7" file="mesh/link7.obj" />
+    <mesh name="hand" file="mesh/hand.obj" />
+    <mesh name="finger" file="mesh/finger.obj" />
     <texture name="panda" file="panda.png" type="2d" />
     <material name="panda" texture="panda" shininess=".4" specular=".4" />
     <material name="panda_white" rgba="1 1 1 1" shininess="0.4" specular="0.4" />
