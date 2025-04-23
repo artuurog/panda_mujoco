@@ -1,4 +1,4 @@
-<!-- <mujoco model="Vention table"> -->
+<mujoco model="Vention table">
     
     <!-- <compiler angle="radian" meshdir="" texturedir=""/> -->
     <!-- <include file="ventionTable/ventionTable_asset.xml"/> -->
@@ -57,4 +57,4 @@
         </body>
     </worldbody>
 
-<!-- </mujoco> -->
+</mujoco>
