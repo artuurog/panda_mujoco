@@ -21,7 +21,7 @@
     <worldbody>
         <!-- <include file="ventionTable/ventionTable_body.xml"/> -->
         <body name="vention table" childclass="vention">
-            <intertial pos="0 0 0" mass="50" diaginertia="100 100 100"/>
+            <!-- <intertial pos="0 0 0" mass="50" diaginertia="100 100 100"/> -->
             <!-- leg floor pads -->
             <geom type="cylinder" size="0.040 0.010" pos="-.585 -.383 0.010" material="vention_black"/>
             <geom type="cylinder" size="0.040 0.010" pos="0.585 -.383 0.010" material="vention_black"/>
