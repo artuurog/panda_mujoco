@@ -15,7 +15,7 @@
   </asset>
   
   <include file="panda.xml" />
-  <!-- <include file="ventionTable.xml" /> -->
+  <include file="ventionTable.xml" />
   
   <worldbody>
     <body>
