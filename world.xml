@@ -14,14 +14,10 @@
     <material name="plane" reflectance="0.3" texture="plane" texrepeat="1 1" texuniform="true" />
   </asset>
 
-  <!--<include file="ventionTable.xml"/>
-  <!--<include file="panda.xml" />-->
+  <!--<include file="ventionTable.xml"/>-->
+  <include file="panda.xml" />
 
   <worldbody>
-    <body name="panda_robot" pos="0 0 1">
-      <include file="panda.xml"/>
-    </body>
-    
     <body name="cube">
       <inertial pos="0 0 0" mass="1" diaginertia="1 1 1"/>
       <geom type="box" size=".03 .03 .03" pos=".3 0 .03" condim="6" />
