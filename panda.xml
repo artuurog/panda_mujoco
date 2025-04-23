@@ -10,7 +10,7 @@
     <mesh name="link7" file="mesh/link7.obj" />
     <mesh name="hand" file="mesh/hand.obj" />
     <mesh name="finger" file="mesh/finger.obj" />
-    <texture name="panda" file="panda.png" type="2d" />
+    <texture name="panda" file="texture/panda.png" type="2d" />
     <material name="panda" texture="panda" shininess=".4" specular=".4" />
     <material name="panda_white" rgba="1 1 1 1" shininess="0.4" specular="0.4" />
   </asset>
