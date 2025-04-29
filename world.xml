@@ -19,9 +19,9 @@
 
   
   <worldbody>
-    <body name="cube">
+    <body name="cube" pos="0 0 0.8">
       <inertial pos="0 0 0" mass="1" diaginertia="10 10 10"/>
-      <geom type="box" size=".03 .03 .03" pos=".3 0 .8" condim="6" />
+      <geom type="box" size=".03 .03 .03" pos=".3 0 .03" condim="6" />
       <joint type="free" />
     </body>
     <camera name="cam" mode="targetbody" pos="1 1 1" target="panda_hand" />
