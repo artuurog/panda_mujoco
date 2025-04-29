@@ -15,7 +15,7 @@
   </asset>
 
   <!--<include file="ventionTable.xml"/>-->
-  <include file="panda.xml" pos="0 0 100"/>
+  <include file="panda.xml" pos="0 0 1000"/>
 
   
   <worldbody>
