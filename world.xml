@@ -6,7 +6,7 @@
     <rgba haze="0.15 0.25 0.35 1" />
   </visual>
   <option timestep="0.001" integrator="Euler" iterations="50" solver="Newton" impratio="5" noslip_iterations="5" tolerance="1e-8" cone="elliptic">
-    <flag actuation="enable" gravity="disable" warmstart="enable" />
+    <flag actuation="disable" gravity="disable" warmstart="enable" />
   </option>
   <asset>
     <texture type="skybox" builtin="gradient" rgb1="0.3 0.5 0.7" rgb2="0 0 0" width="512" height="512" />
